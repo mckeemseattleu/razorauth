@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RazorOAUTH")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+575ebe0f7e3863019a64c4f3a4c811669eccc63d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8482495e52681405fdc06a7594b289e018937da")]
 [assembly: System.Reflection.AssemblyProductAttribute("RazorOAUTH")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RazorOAUTH")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
