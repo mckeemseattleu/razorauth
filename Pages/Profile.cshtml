@@ -1,0 +1,9 @@
+﻿@page
+@attribute [Microsoft.AspNetCore.Authorization.Authorize]
+
+<h2>Profile</h2>
+
+<p><strong>Name:</strong> @User.Identity?.Name</p>
+<p><strong>Email:</strong> @User.FindFirst("email")?.Value</p>
+
+<a href="/logout">Logout</a>
